@@ -1,0 +1,36 @@
+{
+  "user": [
+    {
+      "id": 2,
+      "name": "Isha",
+      "username": "Isha26",
+      "password": "Isha123",
+      "email": "isha@gmail.com",
+      "phone": "8874568852"
+    },
+    {
+      "id": 1,
+      "name": "Hardik Sali",
+      "username": "Hardik31",
+      "password": "Hardik123",
+      "email": "hardik@gmail.com",
+      "phone": "8888888888"
+    },
+    {
+      "name": "Vishal",
+      "username": "Vishal10",
+      "email": "vishal@gmail.com",
+      "password": "Vishal10",
+      "phone": "6658974698",
+      "id": 3
+    },
+    {
+      "name": "Harshiv",
+      "username": "Harshiv7",
+      "email": "harshiv@gmail.com",
+      "password": "Harshiv7",
+      "phone": "8787996542",
+      "id": 4
+    }
+  ]
+}
